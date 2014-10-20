@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Free Encryption Software and Blog.</description>
-    <link>https://compvid30.github.io/strongcrypt-pages/</link>
-    <atom:link href="https://compvid30.github.io/strongcrypt-pages/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Oct 2014 09:00:50 +0200</pubDate>
-    <lastBuildDate>Mon, 20 Oct 2014 09:00:50 +0200</lastBuildDate>
+    <link>http://compvid30.github.io/strongcrypt-pages/strongcrypt-pages/</link>
+    <atom:link href="http://compvid30.github.io/strongcrypt-pages/strongcrypt-pages/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 20 Oct 2014 09:23:17 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2014 09:23:17 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
   </channel>
